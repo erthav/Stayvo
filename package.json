@@ -1,0 +1,14 @@
+{
+  "name": "voice-stay-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.16.1",
+    "discord.js": "^14.14.1",
+    "express": "^4.18.2",
+    "sodium-native": "^4.0.1"
+  }
+}
